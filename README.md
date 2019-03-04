@@ -46,13 +46,10 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 * Support faster turn-around on issues : 7/1/19
 * Facilitate buy-in around program management, particularly around resource allocation : ongoing
-* Speak at 1-2 industry events : 12/31/19
-
-### Facilitate key partnerships
-
 * Monthly lunches with key partners : ongoing
+* OKRs for everything : quarterly
 
-### Write more
+### Increase professional visibility
 
 * 1+ monthly industry-relevant post(s) on Linkedin : ongoing
-* OKRs for everything : quarterly
+* Speak at 1-2 industry events : 12/31/19
