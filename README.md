@@ -17,22 +17,29 @@
 
 ## People Development
 
-* 
+* Hire an Architect 5/1/19
 
 ## Product Development
 
-* 
+### Build for scale
+
+### Improve performance
+
+### Enhance quality
 
 ## Personal Development
 
-### Get to know my colleagues
+### Advance careers
+
+* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy 2/19~~
+
+### Facilitate partnerships with peers
 
 *
 
 ### Write more
 
-* 
+* OKRs for everything
 
 ## Digital OKRs
 
-* 
