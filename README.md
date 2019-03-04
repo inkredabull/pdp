@@ -4,6 +4,8 @@
 
 ## Personal Mission Statement (Why I’m at Decorist)
 
+In this role, I'm excited about having the autonomy, authority, and responsibility to execute around taking the business to the next level.
+
 ## Core Job Responsibilities & Objectives
 
 * Drives qualitative/quantitative improvements of people, processes, and structures/systems.
@@ -17,25 +19,37 @@
 
 ## People Development
 
-* Hire an Architect 5/1/19
+* Hire an Architect : 5/1/19
+
+### Advance careers
+
+* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19~~
 
 ## Product Development
 
 ### Build for scale
 
+* Deliver project plan around next-gen architecture : 4/7/19
+* POC w/BBB APIs : 7/1/19
+
 ### Improve performance
+
+* Build-out Performance Engineering mindset among engineers : ongoing
+* Drop Site Avg. Page Load Speed to <4.5s : 12/31/19
 
 ### Enhance quality
 
+* Be more involved around scoping during design review : ongoing
+* Deliver a framework for improved scoping : 5/1/19
+
 ## Personal Development
 
-### Advance careers
+* Support faster turn-around on issues : 7/1/19
+* Facilitate buy-in around program management, particularly around resource allocation : ongoing
 
-* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy 2/19~~
+### Facilitate key partnerships
 
-### Facilitate partnerships with peers
-
-*
+* Monthly lunches with key partners : ongoing
 
 ### Write more
 
