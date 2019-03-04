@@ -15,6 +15,16 @@
 * Delivers on a coherent vision for transitioning to future architecture while ensuring maintenance of legacy systems.
 * Influences through storytelling while facilitating transparency and alignment of engineering to the business (and vice-verse.)
 
+## Strengths
+
+* 18+ years of software development experience, primarily for the web
+* versatile Player/Coach who thrives on the challenge of delivering solutions when requirements are ambiguous, new technologies are involved, & needs are general
+* experienced in delivering service to a wide variety of customers, primarily in the space of business applications and tools
+* communication skills lauded by supervisors and peers
+* "get-it-done" attitude
+* international experience & cross-culture communication skills
+* responsible for eCommerce platform, customer-facing web technologies, and web development
+
 ## People Development
 
 * Hire an Architect 5/1/19
