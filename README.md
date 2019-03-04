@@ -19,11 +19,10 @@
 
 * 18+ years of software development experience, primarily for the web
 * versatile Player/Coach who thrives on the challenge of delivering solutions when requirements are ambiguous, new technologies are involved, & needs are general
-* experienced in delivering service to a wide variety of customers, primarily in the space of business applications and tools
-* communication skills lauded by supervisors and peers
 * "get-it-done" attitude
-* international experience & cross-culture communication skills
-* responsible for eCommerce platform, customer-facing web technologies, and web development
+* experienced in delivering to a wide variety of customers (e.g. eCommerce platform and customer-facing web technologies)
+* communication skills lauded by supervisors, peers, and reports
+* international experience & cross-cultural communication skills
 
 ## People Development
 
