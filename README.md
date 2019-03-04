@@ -34,7 +34,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ### Improve performance
 
-* Build-out Performance Engineering mindset among engineers : ongoing
+* Build-out Performance Engineering mindset : ongoing
 * Drop Site Avg. Page Load Speed to <4.5s : 12/31/19
 
 ### Enhance quality
@@ -46,6 +46,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 * Support faster turn-around on issues : 7/1/19
 * Facilitate buy-in around program management, particularly around resource allocation : ongoing
+* Speak at 1-2 industry events : 12/31/19
 
 ### Facilitate key partnerships
 
@@ -53,7 +54,5 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ### Write more
 
-* OKRs for everything
-
-## Digital OKRs
-
+* 1+ monthly industry-relevant post(s) on Linkedin : ongoing
+* OKRs for everything : quarterly
