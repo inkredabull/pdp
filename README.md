@@ -1,4 +1,4 @@
-# PDP
+# 2019 PDP
 
 ## Anthony Bull, VP Engineering
 
@@ -19,32 +19,34 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ## People Development
 
-* Hire an Architect : 5/1/19
+* Engineering PDPs and 360 feedback completed : 3/15
+* Hire an Architect : 5/1
 
 ### Advance careers
 
 * ~~Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19~~
+* Lead int'l PROD/ENGR all-hands : quarterly
 
 ## Product Development
 
 ### Build for scale
 
-* Deliver project plan around next-gen architecture : 4/7/19
-* POC w/BBB APIs : 7/1/19
+* Deliver project plan around next-gen architecture : 4/7
+* POC w/BBB APIs : 7/1
 
 ### Improve performance
 
 * Build-out Performance Engineering mindset : ongoing
-* Drop Site Avg. Page Load Speed to <4.5s : 12/31/19
+* Drop Site Avg. Page Load Speed to <4.5s : 12/31
 
 ### Enhance quality
 
 * Be more involved around scoping during design review : ongoing
-* Deliver a framework for improved scoping : 5/1/19
+* Deliver a framework for improved scoping : 5/1
 
 ## Personal Development
 
-* Support faster turn-around on issues : 7/1/19
+* Support faster turn-around on issues : 7/1
 * Facilitate buy-in around program management, particularly around resource allocation : ongoing
 * Monthly lunches with key partners : ongoing
 * OKRs for everything : quarterly
@@ -52,4 +54,5 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 ### Increase professional visibility
 
 * 1+ monthly industry-relevant post(s) on Linkedin : ongoing
-* Speak at 1-2 industry events : 12/31/19
+* Speak at 1-2 industry events : 12/31
+  * PyBay submission : 4/13
