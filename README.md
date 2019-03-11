@@ -9,13 +9,16 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 ## Core Job Responsibilities & Objectives
 
 * Drives qualitative/quantitative improvements of people, processes, and structures/systems.
-* Exhibits a bias for action, particularly while unblocking teams and shipping quality, incremental releases. 
-* Leads-by-example to establish 'excellence in engineering,' both in terms of execution as well as culture.
+* Exhibits a bias for action, particularly while unblocking teams to ship quality, incremental releases. 
+* Models servant leadership and user-centric thinking to lead-by-example and establish 'excellence in engineering,' both in terms of execution as well as culture.
+* Defines (and evolves) the architectural vision and technical roadmap while ensuring maintenance of legacy systems.
+* Builds effective relationships with key stakeholders across the company, particularly regarding the product roadmap.
 * Effectively balances trade-offs, competing priorities, and complexity in the roadmap against team capabilities and timelines.
 * Raises the bar cross-functionally (managers/ICs/Leads/QA/Scrum Masters/etc.) through mentorship, continuous-learning opportunities, and performance-improvement plans.
-* Strategically positions engineering for business value-add while relationship-building with key stakeholders across the company.
-* Defines (and evolves) the architectural vision and technical roadmap while ensuring maintenance of legacy systems.
 * Influences through storytelling while facilitating transparency and alignment of engineering to the business (and vice-verse.)
+* Grows both a highly effective and performant management team and engineering organization.
+
+## Values
 
 ## People Development
 
