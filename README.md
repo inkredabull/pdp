@@ -36,7 +36,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 * Deliver project plan around next-gen architecture : 4/7
 * POC w/BBB APIs : 7/1
-* RB POC w/ecommerce : 9/1
+* RB POC w/ecommerce : 10/1
 
 ### Improve performance
 
@@ -54,6 +54,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 * Facilitate buy-in around program management, particularly around resourcing : ongoing
 * Monthly lunches with key partners : ongoing
 * OKRs for everything : quarterly
+* Broaden domain knowledge in AR, ML, & Blockchain : 12/31
 
 ### Increase professional visibility
 
