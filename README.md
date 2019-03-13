@@ -50,8 +50,8 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ## Personal Development
 
-* Support faster turn-around on issues : 7/1
-* Facilitate buy-in around program management, particularly around resourcing : ongoing
+* Faciliate better communication around issues : 7/1
+* Gain buy-in around program management towards better capacity planning: ongoing
 * Monthly lunches with key partners : ongoing
 * OKRs for everything : quarterly
 * Deliver innovation internally in AR, ML, & Blockchain : 12/31
