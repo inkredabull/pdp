@@ -54,7 +54,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 * Facilitate buy-in around program management, particularly around resourcing : ongoing
 * Monthly lunches with key partners : ongoing
 * OKRs for everything : quarterly
-* Broaden domain knowledge in AR, ML, & Blockchain : 12/31
+* Deliver innovation internally in AR, ML, & Blockchain : 12/31
 
 ### Increase professional visibility
 
