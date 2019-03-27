@@ -23,12 +23,8 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ## People Development
 
-* Engineering PDPs and 360 feedback completed : 3/22
-* Hire an Architect : 5/1
-
-### Advance careers
-
-* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19~~
+* ~~Engineering PDPs and 360 feedback completed : 3/22~~
+* Hire local peer (Architect) : 5/1
 
 ## Product Development
 
@@ -41,10 +37,11 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 ### Improve performance
 
 * Build-out Performance Engineering mindset : ongoing
-* Drop Site Avg. Page Load Speed to <4.5s : 12/31
+* Drop Site Avg. Page Load Speed to <3s : 12/31
 
 ### Enhance quality
 
+* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19~~
 * Be more involved around scoping during design review : ongoing
 * Deliver a framework for improved scoping : 5/1
 
