@@ -19,8 +19,6 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 * Aligns engineering to the business (and vice-verse) to power new business and growth.
 * Grows a highly effective and performant engineering management team and overall engineering organization.
 
-## Values
-
 ## People Development
 
 * ~~Engineering PDPs and 360 feedback completed : 3/22~~
