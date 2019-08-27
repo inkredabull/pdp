@@ -21,8 +21,9 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ## People Development
 
-* ~~Engineering PDPs and 360 feedback completed : 3/22~~
+* Engineering PDPs and 360 feedback completed : 3/22 :heavy_check_mark:
 * Hire local peer (Architect) : 5/1
+* Lean into Architect role
 
 ## Product Development
 
@@ -30,7 +31,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 * Deliver project plan around next-gen architecture : 4/7
 * POC w/BBB APIs : 7/1
-* RB POC w/ecommerce : 10/1
+* RB POC w/ecommerce : 10/1 :heavy_check_mark:
 
 ### Improve performance
 
@@ -39,7 +40,7 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 ### Enhance quality
 
-* ~~Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19~~
+* Gap analysis around functional skills / identify Pluralsight courses to remedy : 2/19 :heavy_check_mark:
 * Be more involved around scoping during design review : ongoing
 * Deliver a framework for improved scoping : 5/1
 
@@ -55,4 +56,5 @@ In this role, I'm excited about having the autonomy, authority, and responsibili
 
 * 1+ monthly industry-relevant post(s) on Linkedin : ongoing
 * Speak at 1-2 industry events : 12/31
-  * PyBay submission : 4/13
+  * ~~PyBay submission : 5/12~~
+  * Elevate : 8/19 :heavy_check_mark:
