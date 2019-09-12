@@ -2,22 +2,22 @@
 
 ## Anthony Bull, VP Engineering
 
-## Personal Mission Statement (Why I’m at Decorist)
+## Objective
 
-In this role, I'm excited about having the autonomy, authority, and responsibility to execute around taking the business to the next level.
+Improving people, processes, communication, and collaboration to deliver the best product engineering value possible. 
 
-## Core Job Responsibilities & Objectives
+## Responsibilities
 
-* Drives qualitative/quantitative improvements of people, processes, and structures/systems.
-* Exhibits a bias for action, particularly while unblocking teams to ship quality, incremental releases. 
-* Models servant leadership and user-centric thinking to establish 'excellence in engineering,' both in terms of execution as well as culture.
-* Effectively balances trade-offs, competing priorities, and complexity in the roadmap against team capabilities and timelines.
-* Builds effective relationships with key stakeholders across the company. 
-* Defines (and evolves) the architectural vision while ensuring maintenance of legacy systems.
-* Raises the bar cross-functionally (managers/ICs/Leads/QA/Scrum Masters/etc.) through mentorship, continuous-learning opportunities, and performance-improvement plans.
-* Influences strategically through data-driven storytelling and outcome-based decision-making.
-* Aligns engineering to the business (and vice-verse) to power new business and growth.
-* Grows a highly effective and performant engineering management team and overall engineering organization.
+* Drive qualitative/quantitative improvements of people, processes, and structures/systems.
+* Exhibit a bias for action, particularly while unblocking teams to ship quality, incremental releases. 
+* Model servant leadership and user-centric thinking to establish 'excellence in engineering,' both in terms of execution as well as culture.
+* Effectively balance trade-offs, competing priorities, and complexity in the roadmap against team capabilities and timelines.
+* Build effective relationships with key stakeholders across the company. 
+* Define (and evolves) the architectural vision while ensuring maintenance of legacy systems.
+* Raise the bar cross-functionally (managers/ICs/Leads/QA/Scrum Masters/etc.) through mentorship, continuous-learning opportunities, and performance-improvement plans.
+* Influence strategically through data-driven storytelling and outcome-based decision-making.
+* Align engineering to the business (and vice-verse) to power new business and growth.
+* Grow a highly effective and performant engineering management team and overall engineering organization.
 
 ## People Development
 
