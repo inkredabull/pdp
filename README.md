@@ -4,7 +4,7 @@
 
 ## Objective
 
-Improving people, processes, communication, and collaboration to deliver the best product engineering value possible. 
+Improve people, processes, communication, and collaboration to deliver the best product engineering value possible. 
 
 ## Responsibilities
 
